@@ -1,2 +1,2 @@
 # finnish-liftingstones
-Finnish Liftingstones
+Finnish Liftingstones map
