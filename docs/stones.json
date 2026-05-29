@@ -5,17 +5,19 @@
       "name": "Mäkisen kivi",
       "location": "Jyväskylä, Keski-Suomi",
       "weight_kg": 150,
+      "historical": "Yes",
       "lat": 62.2415,
       "lon": 25.7209,
       "northing": 6903000,
       "easting": 438000,
-      "notes": ""
+      "notes": "Lorem ipsum"
     },
     {
       "id": 2,
       "name": "Paavo Nurmen kivi",
       "location": "Turku, Varsinais-Suomi",
       "weight_kg": 120,
+      "historical": "Yes",
       "lat": 60.4518,
       "lon": 22.2666,
       "northing": 6711000,
@@ -27,6 +29,7 @@
       "name": "Salmelan nostokivi",
       "location": "Tampere, Pirkanmaa",
       "weight_kg": 200,
+      "historical": "Yes",
       "lat": 61.4978,
       "lon": 23.7610,
       "northing": 6822000,
