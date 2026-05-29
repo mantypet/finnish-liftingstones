@@ -24,8 +24,9 @@ function buildPopup(stone) {
     <div class="popup-content">
       <h3>${stone.name}</h3>
       <table class="popup-table">
-        <tr><td>Sijainti</td><td>${stone.location}</td></tr>
-        <tr><td>Paino</td><td>${stone.weight_kg} kg</td></tr>
+        <tr><td>Location</td><td>${stone.location}</td></tr>
+        <tr><td>Weight</td><td>${stone.weight_kg} kg</td></tr>
+        <tr><td>Historical Stone</td><td>${stone.historical}</td></tr>
         ${tm35}
         ${notes}
       </table>
