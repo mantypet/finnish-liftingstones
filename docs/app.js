@@ -1,8 +1,8 @@
 const map = L.map('map').setView([64.5, 26.0], 5);
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
-  maxZoom: 19
+L.tileLayer('https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png', {
+  attribution: '© <a href="https://opentopomap.org">OpenTopoMap</a> (<a href="https://creativecommons.org/licenses/by-sa/3.0/">CC-BY-SA</a>)',
+  maxZoom: 17
 }).addTo(map);
 
 const stoneIcon = L.divIcon({
@@ -43,6 +43,6 @@ fetch('stones.json')
     });
 
     document.getElementById('count').textContent =
-      `${data.stones.length} kiveä`;
+      `${data.stones.length} stones`;
   })
   .catch(err => console.error('Failed to load stones.json:', err));
