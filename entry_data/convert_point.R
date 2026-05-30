@@ -1,0 +1,5 @@
+library(sf)
+p <- st_sfc(st_point(c(433933.275426, 6828479.542856)), crs = 3067)
+w <- st_transform(p, 4326)
+co <- st_coordinates(w)
+cat(sprintf("lat=%.6f lon=%.6f\n", co[2], co[1]))
