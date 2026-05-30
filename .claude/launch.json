@@ -3,8 +3,8 @@
   "configurations": [
     {
       "name": "docs",
-      "runtimeExecutable": "npx",
-      "runtimeArgs": ["serve", "docs", "-p", "3000", "--no-clipboard"],
+      "runtimeExecutable": "C:\\Program Files\\R\\R-4.6.0\\bin\\Rscript.exe",
+      "runtimeArgs": ["-e", "servr::httd('docs', port=3000, browser=FALSE)"],
       "port": 3000
     }
   ]
