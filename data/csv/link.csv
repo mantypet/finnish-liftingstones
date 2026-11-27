@@ -1,0 +1,66 @@
+link_id,from_type,from_id,role,to_type,to_id,attestation_id,status,confidence,note
+l0001,person,tomas_masabacka,eponym_of,stone,alaveteli1,budkavlen01011929:alaveteli1,local_tradition,certain,
+l0002,person,tomas_masabacka,carried,stone,alaveteli1,budkavlen01011929:alaveteli1,local_tradition,certain,
+l0003,person,tomas_masabacka,lived_at,place,masabacka,budkavlen01011929:alaveteli1,local_tradition,certain,
+l0004,person,poras_aija,lifted,stone,perho1,paulaharju01011930:perho1,local_tradition,probable,Which stone is inferred.
+l0005,person,poras_aija,lived_at,place,poranen,paulaharju01011930:perho1,local_tradition,probable,Inferred from the name.
+l0006,person,marjaana_jylha,lifted,stone,perho2,kotiliesi19290815:perho2,documented,possible,Called a lifter of väkikivet; no stone named.
+l0007,person,marjaana_jylha,lived_at,place,jylha,kotiliesi19290815:perho2,documented,certain,Married into Jylhä.
+l0008,person,marjaana_jylha,born_at,place,nopola,kotiliesi19290815:perho2,documented,certain,
+l0009,person,matti_ritola,host_of,stone,haapavesi1,suomenurheilulehti01041911:haapavesi1,documented,certain,
+l0010,person,matti_ritola,lived_at,place,ritola,suomenurheilulehti01041911:haapavesi1,documented,certain,
+l0011,person,nuija_heikki,eponym_of,stone,kangasniemi1,turistforeningsarsbok01011898:kangasniemi1,local_tradition,certain,
+l0012,person,nuija_heikki,carried,stone,kangasniemi1,turistforeningsarsbok01011898:kangasniemi1,legend,certain,
+l0013,person,otto_aatunpoika,eponym_of,stone,kangasniemi2,turistforeningsarsbok01011898:kangasniemi2,documented,certain,Name inscribed on the stone.
+l0014,person,antti_nousiainen,lifted,stone,kangasniemi3,urheilija01011931:kangasniemi3,local_tradition,certain,
+l0015,person,siltalan_kustavi,lifted,stone,ahtari1,viikkosanomat30061923:ahtari1,local_tradition,certain,
+l0016,person,siltalan_kustavi,lived_at,place,siltala,viikkosanomat30061923:ahtari1,local_tradition,certain,
+l0017,person,iso_ronkko,carried,stone,sonkajarvi1,hakkapeliitta29091931:sonkajarvi1,local_tradition,certain,
+l0018,person,iso_ronkko,lived_at,place,ronkkola,hakkapeliitta29091931:sonkajarvi1,local_tradition,certain,
+l0019,person,johannes_viitala,lifted,stone,perho1,perhojokilaakso13012021:perho1,documented,probable,1932 photo; stone inferred.
+l0020,person,johannes_viitala,lived_at,place,poranen,perhojokilaakso13012021:perho1,documented,certain,
+l0021,person,samuli_paulaharju,photographed,stone,perho1,valokuvapaulaharju1928:perho1,documented,certain,
+l0022,person,samuli_paulaharju,photographed,stone,perho1,perhojokilaakso13012021:perho1,documented,probable,
+l0023,person,tohni,carried,stone,alavus1,suomenurheilulehti30041914:alavus1,local_tradition,possible,See alavus1 note.
+l0024,person,lemetti_jarvenpaa,lived_at,place,haapajarvi,liitto14121915:context,legend,certain,
+l0025,person,perho_hostess,lived_at,place,perho,pohjolanhelleenit01012007:context,local_tradition,certain,
+l0026,story,tomas_carries_stone,about,stone,alaveteli1,budkavlen01011929:alaveteli1,local_tradition,certain,
+l0027,story,tomas_carries_stone,features,person,tomas_masabacka,budkavlen01011929:alaveteli1,local_tradition,certain,
+l0028,story,tomas_carries_stone,set_in,place,nedervetil_church,stejskal1954:alaveteli1,local_tradition,certain,
+l0029,story,nuija_heikki_carries_stone,about,stone,kangasniemi1,turistforeningsarsbok01011898:kangasniemi1,legend,certain,
+l0030,story,nuija_heikki_carries_stone,features,person,nuija_heikki,turistforeningsarsbok01011898:kangasniemi1,legend,certain,
+l0031,story,nuija_heikki_carries_stone,set_in,place,vehkomaki,turistforeningsarsbok01011898:kangasniemi1,legend,certain,
+l0032,story,poras_aija_fence_throw,about,stone,perho1,paulaharju01011930:perho1,local_tradition,probable,
+l0033,story,poras_aija_fence_throw,features,person,poras_aija,paulaharju01011930:perho1,local_tradition,certain,
+l0034,story,poras_aija_fence_throw,set_in,place,perho,paulaharju01011930:perho1,local_tradition,certain,
+l0035,story,siltalan_kustavi_fence_throw,about,stone,ahtari1,viikkosanomat30061923:ahtari1,local_tradition,certain,
+l0036,story,siltalan_kustavi_fence_throw,features,person,siltalan_kustavi,viikkosanomat30061923:ahtari1,local_tradition,certain,
+l0037,story,antti_nousiainen_fence_throw,about,stone,kangasniemi3,urheilija01011931:kangasniemi3,local_tradition,certain,
+l0038,story,antti_nousiainen_fence_throw,features,person,antti_nousiainen,urheilija01011931:kangasniemi3,local_tradition,certain,
+l0039,story,iso_ronkko_stone,about,stone,sonkajarvi1,hakkapeliitta29091931:sonkajarvi1,local_tradition,certain,
+l0040,story,iso_ronkko_stone,features,person,iso_ronkko,hakkapeliitta29091931:sonkajarvi1,local_tradition,certain,
+l0041,story,iso_ronkko_stone,set_in,place,nostokiven_kallio,hakkapeliitta29091931:sonkajarvi1,local_tradition,certain,
+l0042,story,perho_hostess_lift,features,person,perho_hostess,pohjolanhelleenit01012007:context,local_tradition,certain,
+l0043,story,perho_hostess_lift,set_in,place,perho,pohjolanhelleenit01012007:context,local_tradition,certain,
+l0044,story,lemetti_vakikivi,features,person,lemetti_jarvenpaa,liitto14121915:context,legend,certain,
+l0045,story,lemetti_vakikivi,set_in,place,istula,liitto14121915:context,legend,certain,
+l0046,story,tohni_church_stone,about,stone,alavus1,suomenurheilulehti30041914:alavus1,local_tradition,possible,See alavus1 note.
+l0047,story,tohni_church_stone,features,person,tohni,suomenurheilulehti30041914:alavus1,local_tradition,certain,
+l0048,story,tohni_church_stone,set_in,place,kyro_church,suomenurheilulehti30041914:alavus1,local_tradition,certain,
+l0049,custom,confirmation_lift_nedervetil,practised_at,stone,alaveteli1,budkavlen01011929:alaveteli1,documented,certain,Observed 1929.
+l0050,custom,confirmation_lift_nedervetil,practised_in,place,nedervetil,budkavlen01011929:alaveteli1,documented,certain,
+l0051,custom,marriage_lift_terjarv,practised_at,stone,teerijarvi1,stejskal1954:teerijarvi1,local_tradition,certain,'The old people claim' (1954).
+l0052,custom,bachelor_lift_munsala,practised_at,stone,munsala1,stejskal1954:munsala1,documented,certain,
+l0053,custom,field_carry_munsala,practised_at,stone,munsala2,hulden1952:munsala2,documented,certain,
+l0054,custom,confirmation_lift_oravais,practised_at,stone,oravainen1,stejskal1954:oravainen1,documented,certain,
+l0055,custom,confirmation_lift_pedersore,practised_at,stone,pietarsaari1,stejskal1954:pietarsaari1,documented,certain,
+l0056,custom,confirmation_upright_nykarleby,practised_at,stone,uusikaarlepyy1,stejskal1954:uusikaarlepyy1,documented,certain,
+l0057,custom,shoulder_throw_jomala,practised_in,place,jomala,stejskal1954:jomala1,documented,certain,
+l0058,custom,shoulder_throw_jomala,practised_at,stone,jomala1,stejskal1954:jomala1,documented,possible,"Stejskal gives this for Jomala parish (Jo), not explicitly for the Björsby stone."
+l0059,custom,added_stones_sibbo,practised_at,stone,sipoo1,stejskal1954:sipoo1,documented,certain,
+l0060,custom,sunday_lifting_perho,practised_in,place,perho,paulaharju01011930:perho1,documented,certain,
+l0061,custom,sunday_lifting_perho,practised_at,stone,perho1,paulaharju01011930:perho1,documented,possible,
+l0062,custom,women_lifting_perho,practised_in,place,perho,paulaharju01011930:perho1,documented,certain,
+l0063,custom,women_lifting_perho,practised_at,stone,perho2,pohjolanhelleenit01012007:perho2,local_tradition,certain,
+l0064,custom,guest_challenge_ritola,practised_at,stone,haapavesi1,suomenurheilulehti01041911:haapavesi1,documented,certain,
+l0065,custom,holy_evening_lifting_sonkajarvi,practised_at,stone,sonkajarvi1,hakkapeliitta29091931:sonkajarvi1,local_tradition,certain,

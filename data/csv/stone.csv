@@ -1,0 +1,27 @@
+stone_id,preferred_name,stone_type,status,condition,access,sheet_context,record_confidence,source_id,note
+ahtari1,Siltalan Kustavin väkikivi,väkikivi,unknown,,,,certain,sheet20260109,
+alaveteli1,Tomasasstäinä,skriftskolsten,unknown,,,skriftskolsten,certain,sheet20260109,Preferred name as printed in Budkavlen 1929; the sheet spelled it 'Tomasassstäina'.
+alavus1,Tohnisen äijän kivi,väkikivi,unknown,,,,certain,map20260530,On the map but not yet in the sources sheet. Suomen Urheilulehti 1914 says Tohni rolled a stone onto the wall of Kyrö church; the map places the stone in Alavus. Check which.
+haapavesi1,Ukko Ritolan väkikivi,väkikivi,unknown,,,,certain,sheet20260109,
+haapavesi2,Väliahon Heikin väkikivi (porrasoja),väkikivi,unconfirmed,,,local,certain,sheet20260109,
+haapavesi3,Mieluskylän seurantalon väkikivi,väkikivi,unconfirmed,,,local,certain,sheet20260109,
+hyrynsalmi1,Nauris-Oskarin väkikivi,väkikivi,unknown,,,,certain,map20260530,On the map but not yet in the sources sheet.
+jomala1,Björsby lyftsten,lyftsten,unknown,,,lyftsten,certain,stejskal1954,"Added: Stejskal 1954 p. D1 and fig. 27. Year 1783 carved into it, egg-shaped. Coordinates from docs/stones.json (map, 2026-05-30)."
+kangasniemi1,Nuija-Heikin väkikivi,väkikivi,unconfirmed,,,,certain,sheet20260109,
+kangasniemi2,Otto Aatunpojan väkikivi,väkikivi,unconfirmed,,,,certain,sheet20260109,
+kangasniemi3,Antti Nousiaisen väkikivi,väkikivi,unknown,,,,certain,sheet20260109,
+korsnas1,Södra Björköstenet,lyftsten,unknown,,,,certain,map20260530,On the map but not yet in the sources sheet.
+munsala1,Ungkarlstenen,skriftskolsten,unknown,,,skriftskolsten,certain,sheet20260109,
+munsala2,Stubbåkers grisen,lyftsten,confirmed,,,karlaprov?,certain,sheet20260109,Sheet context 'karlaprov?' was uncertain; type set to what the sources call it.
+mustasaari1,Karperö lyftsten,lyftsten,unknown,,,,certain,map20260530,On the map but not yet in the sources sheet.
+oravainen1,Skriftskolsten 1 (name?),skriftskolsten,unknown,,,skriftskolsten,certain,sheet20260109,
+perho1,Porasen tuvan väkikivi,väkikivi,confirmed,damaged,private,local,certain,sheet20260109,"Perho likely has two stones: this one (Poranen) and Jylhän naisten väkikivi, now perho2."
+perho2,Jylhän naisten väkikivi,väkikivi,unconfirmed,,,local,probable,pohjolanhelleenit01012007,"Added: split from perho1. SKS archive and Pohjolan helleenit 2007 name a 'Jylhän naisten väkikivi' at the Jylhä farm, a different farm from Poranen. Coordinates from docs/stones.json (map, 2026-05-30)."
+perho3,Hiiden äijän väkikivi,väkikivi,unknown,,,,certain,map20260530,On the map but not yet in the sources sheet.
+pietarsaari1,Skriftskolsten 2 (name?),skriftskolsten,unknown,,,skriftskolsten,certain,sheet20260109,
+sipoo1,Nilsfafas lyftån,lyftsten,unknown,,,lyftsten,certain,stejskal1954,"Added: Stejskal 1954 ('i Gästerby, Si.'). Gästerby is a village in Sibbo/Sipoo, and the map has this stone in Sipoo, so 'Si' read as Sibbo, not Sideby (probable). Coordinates from docs/stones.json (map, 2026-05-30)."
+sonkajarvi1,Ison Rönkön kivi,väkikivi,unknown,,,,certain,sheet20260109,
+sysma1,Mattilan mummu,väkikivi,confirmed,,private,local,certain,sheet20260109,
+teerijarvi1,Risbackasten,lyftsten,confirmed,lost/damaged,,skriftskolsten?,certain,sheet20260109,Sheet context 'skriftskolsten?' was uncertain; type set to what the sources call it.
+teerijarvi2,Skriftskolsten 3 (name?),skriftskolsten,unknown,,,,certain,map20260530,"On the map but not yet in the sources sheet. Map calls it 'Skrifskolstennar #3'. The point is about 550 m from Risbacka, so historic parish Terjärv is a guess."
+uusikaarlepyy1,Junttanstein,junttasten,unknown,lost/damaged,,skriftskolsten?,certain,sheet20260109,Sheet context 'skriftskolsten?' was uncertain; type set to what the sources call it.

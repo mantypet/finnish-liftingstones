@@ -1,0 +1,13 @@
+media_id,stone_id,source_id,kind,archive_id,url,year,photographer,licence,caption,confidence,note
+paulaharju1928_perho1,perho1,valokuvapaulaharju1928,photo,museovirasto.8319F7526E14A0B65CD5DCF49C0369E9,https://www.finna.fi/Record/museovirasto.8319F7526E14A0B65CD5DCF49C0369E9,1928,Samuli Paulaharju,,,certain,Check whether this is the same picture as the 1932 Viitala photo.
+paulaharju1932_viitala,perho1,perhojokilaakso13012021,photo,,,1932,Samuli Paulaharju,,The väkikivi rises in the hands of Johannes Viitala; the boy is Aatos Viitala.,probable,Archive record not found yet; look in the Finnish Heritage Agency picture archive.
+budkavlen1929_fig,alaveteli1,budkavlen01011929,figure,,https://digi.kansalliskirjasto.fi/aikakausi/binding/917722?page=8,1929,,,Photo printed with the article ('the stone depicted above').,certain,
+stejskal1954_fig26,teerijarvi1,stejskal1954,figure,fig. 26,,,,,"Risbacka lyftsten, D 1. Terjärv.",certain,
+stejskal1954_fig27,jomala1,stejskal1954,figure,fig. 27,,,,,"Björsby lyftsten (daterad 1783), D 1. Jomala.",certain,
+ekrem2020_risbacka1932,teerijarvi1,ekrem2020,photo,,,1932,,,"Risbacka lifting stone, photo from 1932.",certain,Per the source analysis report.
+virtaranta1960_photo,,virtaranta1960,photo,museovirasto.858E9FFFDE339CDD18429EC7CABD505A,https://www.finna.fi/Record/museovirasto.858E9FFFDE339CDD18429EC7CABD505A,1960,Helmi Virtaranta,,Ysö-Pekan väkikivi,certain,Stone has no record yet.
+aaltonen1950a_photo,,aaltonen1950a,photo,,,1950,Esko Aaltonen,,Juuka,certain,
+aaltonen1950b_photo,,aaltonen1950b,photo,,,1950,Esko Aaltonen,,Juuka,certain,
+aaltonen1950c_photo,,aaltonen1950c,photo,,,1950,Esko Aaltonen,,Juuka,certain,
+aaltonen1950d_photo,,aaltonen1950d,photo,,,1950,Esko Aaltonen,,Juuka,certain,
+aaltonen1950e_photo,,aaltonen1950e,photo,,,1950,Esko Aaltonen,,Juuka,certain,
