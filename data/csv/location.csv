@@ -1,0 +1,37 @@
+location_id,stone_id,place_id,valid_from,valid_to,description,easting,northing,point_marks,precision_m,is_current,source_id,confidence,note
+ahtari1-sheet,ahtari1,ahtari,,,,350641,6939458,localheritagemuseum,,1,sheet20260109,certain,
+haapavesi1-sheet,haapavesi1,haapavesi,,,,418953,7109125,house,,1,sheet20260109,certain,
+haapavesi2-sheet,haapavesi2,haapavesi,,,,407861,7116727,landmark,,1,sheet20260109,certain,
+haapavesi3-sheet,haapavesi3,haapavesi,,,,412092,7116182,communityhall,,1,sheet20260109,certain,
+kangasniemi1-sheet,kangasniemi1,synsio,,,,476320,6884045,stone,,1,sheet20260109,certain,
+kangasniemi2-sheet,kangasniemi2,pirttiniemi,,,,467987,6891331,stone,,1,sheet20260109,certain,
+perho1-sheet,perho1,poranen,,,,361491,7005775,stone,,0,sheet20260109,certain,
+sonkajarvi1-sheet,sonkajarvi1,nostokiven_kallio,,,,524731,7059400,landmark,,1,sheet20260109,certain,
+sysma1-sheet,sysma1,sysma,,,,433795,6828625,stone,,0,sheet20260109,certain,
+alaveteli1-sheet,alaveteli1,klockarbacken,,,,319346,7068713,localheritagemuseum,,0,sheet20260109,certain,
+teerijarvi1-sheet,teerijarvi1,terjarv,,,,326556,7050857,localheritagemuseum,,0,sheet20260109,certain,
+munsala1-sheet,munsala1,munsala_church,,,,272472,7044336,church,,0,sheet20260109,certain,
+oravainen1-sheet,oravainen1,oravais_church,,,,268547,7026851,church,,0,sheet20260109,certain,
+pietarsaari1-sheet,pietarsaari1,pedersore_church,,,,287327,7066717,church,,0,sheet20260109,certain,
+uusikaarlepyy1-sheet,uusikaarlepyy1,nykarleby_townhall,,,,277608,7051521,townhall,,0,sheet20260109,certain,
+munsala2-sheet,munsala2,kantlax,,,,265258,7040295,localheritagemuseum,,0,sheet20260109,certain,
+hyrynsalmi1-map,hyrynsalmi1,hyrynsalmi,,,,565571,7167265,,,1,map20260530,certain,
+alaveteli1-map,alaveteli1,klockarbacken,,,,319342,7068699,,,1,map20260530,certain,Preferred over the sheet point because the map is newer (guess).
+teerijarvi1-map,teerijarvi1,terjarv,,,,326563,7050819,,,1,map20260530,certain,Preferred over the sheet point because the map is newer (guess).
+oravainen1-map,oravainen1,oravais_church,,,,268507,7026842,,,1,map20260530,certain,Preferred over the sheet point because the map is newer (guess).
+pietarsaari1-map,pietarsaari1,pedersore_church,,,,287261,7066739,,,1,map20260530,certain,Preferred over the sheet point because the map is newer (guess).
+teerijarvi2-map,teerijarvi2,terjarv,,,,326006,7050996,,,1,map20260530,probable,Historic parish is a guess.
+uusikaarlepyy1-map,uusikaarlepyy1,nykarleby_townhall,,,,277515,7052720,,,1,map20260530,certain,Preferred over the sheet point because the map is newer (guess).
+munsala1-map,munsala1,munsala_church,,,,272354,7044358,,,1,map20260530,certain,Preferred over the sheet point because the map is newer (guess).
+munsala2-map,munsala2,kantlax,,,,266005,7040941,,,1,map20260530,certain,Preferred over the sheet point because the map is newer (guess).
+mustasaari1-map,mustasaari1,korsholm,,,,233365,7014587,,,1,map20260530,certain,
+korsnas1-map,korsnas1,korsnas,,,,196380,6971086,,,1,map20260530,certain,
+perho3-map,perho3,perho,,,,382076,7023994,,,1,map20260530,certain,
+perho1-map,perho1,poranen,,,,361503,7005778,,,1,map20260530,certain,Preferred over the sheet point because the map is newer (guess).
+perho2-map,perho2,jylha,,,,376080,7008985,,,1,map20260530,certain,
+alavus1-map,alavus1,alavus,,,,336118,6956737,,,1,map20260530,certain,
+sysma1-map,sysma1,sysma,,,,433933,6828480,,,1,map20260530,certain,Moved by the researcher on 2026-05-30 (commit 'edit mattilan mummu location'). Preferred over the sheet point because the map is newer (guess).
+sipoo1-map,sipoo1,gasterby,,,,404498,6689831,,,1,map20260530,certain,
+jomala1-map,jomala1,bjorsby,,,,110147,6693064,,,1,map20260530,certain,
+sysma1-museum1930,sysma1,itahamen_museo,1930-04-27,,"Courtyard of Itä-Hämeen museo, Hartola",,,museum,,0,itahame30041930,certain,Deposited at a soirée 'last Sunday' before 30.4.1930. It later returned to Sysmä; the return is not yet sourced.
+alaveteli1-original,alaveteli1,nedervetil_church,,,"Near the church, Nedervetil",,,,,0,stejskal1954,certain,Before Tomas of Måsabacka (born c. 1800) carried it about 3/4 km to the road junction.

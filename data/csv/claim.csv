@@ -1,0 +1,46 @@
+claim_id,attestation_id,stone_id,field,value,value_num,value_num_max,unit,method,status,confidence,note
+c0001,budkavlen01011929:alaveteli1,alaveteli1,weight,about 92 kg,92,,kg,calculated,measured,certain,"Volume 34 dm3 x assumed density 2.7, treating the stone as a perfect prism. Not a weighing."
+c0002,budkavlen01011929:alaveteli1,alaveteli1,dimensions,"triangular prism, sides 56, 46 and 60 cm, height 28 cm",,,,measured,measured,certain,
+c0003,budkavlen01011929:alaveteli1,alaveteli1,volume,about 34 dm3,34,,dm3,calculated,measured,certain,
+c0004,budkavlen01011929:alaveteli1,alaveteli1,location,"Nedervetil, at the junction where the cart road up to Klockarbacken leaves the highway, on the south side of the highway",,,,reported,documented,certain,
+c0005,budkavlen01011929:alaveteli1,alaveteli1,carry_distance,carried by Tomas from near the church; OCR reads '3 4 km',,,,traditional,local_tradition,possible,The OCR is ambiguous; Stejskal 1954 gives 3/4 km.
+c0006,budkavlen01011929:alaveteli1,alaveteli1,use,lifted every year by confirmation-school boys; only a couple a year manage it (1929),,,,reported,documented,certain,
+c0007,stejskal1954:alaveteli1,alaveteli1,weight,about 92 kg,92,,kg,reported,documented,certain,Probably taken from Budkavlen 1929.
+c0008,stejskal1954:alaveteli1,alaveteli1,handling,very hard to get a grip on,,,,reported,documented,certain,
+c0009,stejskal1954:alaveteli1,alaveteli1,dating,"in use a couple of hundred years, by hearsay (1954)",,,,traditional,local_tradition,certain,
+c0010,stejskal1954:alaveteli1,alaveteli1,carry_distance,about 3/4 km from near the church to its present place,0.75,,km,traditional,local_tradition,certain,
+c0011,stejskal1954:alaveteli1,alaveteli1,location,"in Klockarbacken, Nedervetil church village, beside the road",,,,reported,documented,certain,
+c0012,stejskal1954:teerijarvi1,teerijarvi1,weight,between 150 and 200 kg,150,200,kg,reported,documented,certain,
+c0013,stejskal1954:teerijarvi1,teerijarvi1,dating,used for about 200 years (1954),,,,traditional,local_tradition,certain,
+c0014,stejskal1954:teerijarvi1,teerijarvi1,shape,sharp lower edge,,,,reported,documented,certain,
+c0015,stejskal1954:teerijarvi1,teerijarvi1,handling,"rests on two small logs; lifted with a strong branch under its sharp lower edge, gripped at both ends",,,,reported,documented,certain,
+c0016,stejskal1954:munsala1,munsala1,location,on the church hill (kyrkbacken) in Munsala,,,,reported,documented,certain,
+c0017,osterbottenstidning09062019:munsala1,munsala1,location,below the church,,,,reported,documented,certain,
+c0018,osterbottenstidning09062019:munsala1,munsala1,use,tradition long dead; confirmands of 1959 and 1970 did not take part,,,,reported,documented,certain,
+c0019,hulden1952:munsala2,munsala2,weight,139 kg,139,,kg,reported,documented,certain,Huldén does not say whether it was weighed.
+c0020,hulden1952:munsala2,munsala2,shape,"elongated and smooth, the size of a pig (hence the name)",,,,reported,documented,certain,
+c0021,hulden1952:munsala2,munsala2,location,"Stubbåker, a field in Kantlax, Munsala",,,,reported,documented,probable,Huldén places the carrying test in Stubbåker; Stejskal says 'in Kantlax in Munsala'.
+c0022,stejskal1954:munsala2,munsala2,weight,139 kg,139,,kg,reported,documented,certain,"Cites SNF 40-41, i.e. Huldén 1952."
+c0023,stejskal1954:oravainen1,oravainen1,location,beside the church wall in Oravais,,,,reported,documented,certain,
+c0024,stejskal1954:pietarsaari1,pietarsaari1,location,behind the bell tower at Pedersöre church,,,,reported,documented,certain,
+c0025,stejskal1954:uusikaarlepyy1,uusikaarlepyy1,location,"town-hall yard (rådstugugården), Nykarleby",,,,reported,documented,certain,
+c0026,stejskal1954:uusikaarlepyy1,uusikaarlepyy1,dating,there before the turn of the century (before c. 1900),,,,reported,documented,certain,
+c0027,stejskal1954:uusikaarlepyy1,uusikaarlepyy1,fittings,"iron band, ring or hook",,,,reported,documented,probable,Stejskal says such stones can have fittings and that 'such a stone' was in Nykarleby; read as this stone having them.
+c0028,stejskal1954:uusikaarlepyy1,uusikaarlepyy1,use,used as a pile-driving weight,,,,reported,documented,certain,
+c0029,stejskal1954:jomala1,jomala1,marking,the year 1783 carved into it,1783,,year,reported,documented,certain,
+c0030,stejskal1954:jomala1,jomala1,shape,egg-shaped (äggrund),,,,reported,documented,certain,
+c0031,stejskal1954:jomala1,jomala1,location,"Björsby, Jomala, Åland",,,,reported,documented,certain,
+c0032,stejskal1954:sipoo1,sipoo1,location,"Gästerby, 'Si.' (read as Sibbo/Sipoo)",,,,reported,documented,probable,'Si' is Stejskal's parish code. Gästerby is a village in Sibbo and the map has the stone in Sipoo; an earlier reading as Sideby is probably wrong.
+c0033,turistforeningsarsbok01011898:kangasniemi1,kangasniemi1,dimensions,"150 cm high on the west side, 75 cm on the east side, 125 cm long, 60 cm thick",,,,reported,documented,certain,
+c0034,turistforeningsarsbok01011898:kangasniemi1,kangasniemi1,location,"Synsiö village, a short way north-east of Vehkomäki farm, on a rock sloping towards the farm",,,,reported,documented,certain,
+c0035,turistforeningsarsbok01011898:kangasniemi1,kangasniemi1,marking,the stone's name indistinctly carved on its side,,,,reported,documented,certain,
+c0036,turistforeningsarsbok01011898:kangasniemi1,kangasniemi1,carry_distance,carried by Nuija-Heikki from the bog up onto the rock,,,,traditional,legend,certain,
+c0037,turistforeningsarsbok01011898:kangasniemi2,kangasniemi2,location,"on Jalassyrjä farm land at Pirttiniemi, east shore of Siikajärvi",,,,reported,documented,certain,
+c0038,turistforeningsarsbok01011898:kangasniemi2,kangasniemi2,marking,inscription 'Otto Aatunpojan väkikivi',,,,reported,documented,certain,
+c0039,itahame30041930:sysma1,sysma1,weight,180.5 kg,180.5,,kg,reported,documented,certain,"Stated as 'weighing 180.5 kg'; the precision suggests a weighing, but the text does not say."
+c0040,itahame30041930:sysma1,sysma1,shape,"smooth, spherical",,,,reported,documented,certain,
+c0041,itahame30041930:sysma1,sysma1,location,"deposited in Itä-Hämeen museo, Hartola, at a Sisu soirée the Sunday before 30.4.1930",,,,reported,documented,certain,
+c0042,hakkapeliitta29091931:sonkajarvi1,sonkajarvi1,carry_distance,carried by Iso Rönkkö under his arm from Lehtoniemi field to the roadside at Kaijanmäki,,,,traditional,local_tradition,certain,
+c0043,hakkapeliitta29091931:sonkajarvi1,sonkajarvi1,location,"Nostokiven kallio (Lifting Stone Rock), by the road at Kaijanmäki",,,,traditional,local_tradition,certain,
+c0044,hakkapeliitta29091931:sonkajarvi1,sonkajarvi1,fate,Jussi of Lähdeniemi had a horse drag the stone into a mud pit,,,,traditional,local_tradition,certain,
+c0045,viikkosanomat30061923:ahtari1,ahtari1,location,by a fence in the village,,,,traditional,local_tradition,certain,

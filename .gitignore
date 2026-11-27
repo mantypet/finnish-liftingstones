@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 *.Rproj
+# built database (python tools/build_db.py)
+build/
+__pycache__/
